@@ -1,0 +1,35 @@
+{
+  "[makefile]": {
+    "editor.insertSpaces": false,
+    "editor.tabSize": 4,
+    "editor.detectIndentation": false,
+    "files.insertFinalNewline": false
+  },
+  "c-cpp-flylint.clang.configFile": "${workspace_path}/.clang_complete",
+  "c-cpp-flylint.cppcheck.configFile": "${workspace_path}/.clang_complete",
+  "c-cpp-flylint.flexelint.enable": false,
+  "files.associations": {
+    "*.js": "javascript",
+    "*.jsx": "javascriptreact",
+    "iostream": "cpp",
+    "ostream": "cpp",
+    "exception": "cpp",
+    "*.tcc": "cpp",
+    "cctype": "cpp",
+    "clocale": "cpp",
+    "cstdint": "cpp",
+    "cstdio": "cpp",
+    "cstdlib": "cpp",
+    "cwchar": "cpp",
+    "cwctype": "cpp",
+    "initializer_list": "cpp",
+    "iosfwd": "cpp",
+    "istream": "cpp",
+    "limits": "cpp",
+    "stdexcept": "cpp",
+    "streambuf": "cpp",
+    "system_error": "cpp",
+    "type_traits": "cpp",
+    "typeinfo": "cpp"
+  }
+}
